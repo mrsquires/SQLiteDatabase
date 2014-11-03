@@ -1,0 +1,4 @@
+SQLiteDatabase
+==============
+
+SQLite database file
